@@ -1,0 +1,1 @@
+Mytube is an example application of a small youtube clone made using symfony and vue
